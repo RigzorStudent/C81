@@ -1,0 +1,17 @@
+
+h1
+{
+	color:lightblue; 
+	font-size: 40px;
+}
+.body_background {
+background-position:center;
+background-size:cover;
+}
+
+#MyCanvas{
+background-color:white;
+border-width:15px;
+border-style:dashed
+
+}
